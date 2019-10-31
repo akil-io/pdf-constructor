@@ -1,0 +1,26 @@
+{
+  "name": "pdf-constructor",
+  "version": "1.0.0",
+  "description": "Schema based pdf generator",
+  "main": "index.js",
+  "author": "Alex Martynov <fenixdeveloper@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akil-io/pdf-constructor"
+  },
+  "bugs": {
+    "url": "https://github.com/akil-io/pdf-constructor/issues"
+  },
+  "keywords": [
+    "bootloader",
+    "micro framework"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "pdfkit": "^0.10.0",
+    "qrcode": "^1.4.2",
+    "request": "^2.88.0"
+  }
+}
